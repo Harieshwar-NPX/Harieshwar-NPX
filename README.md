@@ -2,9 +2,8 @@
 
 <h2> I'm Harieshwar Jagan Abirami! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVibmtjZzZ5cnUxYTVzdXB2MGpzN3ZtMzEwcGlxOG9nNWM1ZjQxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.gif" width="270">
-<p><em>Full Stack Web Developer @<a href="https://www.npxinnovation.ca/">Nuclear Promise X</a></em></br>Master of Engineer @<a href="https://www.mcmaster.ca/">McMaster University</a>
-<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Ex DevOps Engineer @<a href="https://soti.net/">SOTI Inc.</a></br>Ex Senior Project Engineer @<a href="https://www.solitontech.com/">Soliton Technologies Pvt. Ltd.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p>Innovation Catalyst - Full Stack Web Developer @<a href="https://www.npxinnovation.ca/">Nuclear Promise X</a></br>Master of Engineer @<a href="https://www.mcmaster.ca/">McMaster University</a>
+<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 
 [![Twitter: HariSpartan](https://img.shields.io/twitter/follow/hariSpartan1?style=social)](https://twitter.com/hariSpartan_1)
 [![Linkedin: Harieshwar J A](https://img.shields.io/badge/harieshwar-ja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harieshwar-ja/)](https://www.linkedin.com/in/harieshwar-ja/)
